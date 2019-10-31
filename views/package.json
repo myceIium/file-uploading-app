@@ -18,7 +18,7 @@
     "gridfs-stream": "^1.1.1",
     "method-override": "^2.3.10",
     "mongo-gridfs-storage": "^2.0.0",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.7.5",
     "mongoose-gridfs": "^0.6.2",
     "multer": "^1.3.0",
     "multer-gridfs-storage": "^3.0.0"
